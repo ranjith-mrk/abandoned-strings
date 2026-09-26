@@ -1,0 +1,5 @@
+{
+  "name": "AbandonedStrings",
+  "image": "swift:6.1.2",
+  "install": "swiftc AbandonedStrings/main.swift -o AbandonedStrings"
+}
